@@ -123,10 +123,10 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-![OUTPUT](./out.png)
+![OUTPUT](mathserver/mathserver/templates/myapp/out.png)
 
 ### Home Page:
-![Home Page](./home.png)
+![Home Page](mathserver/mathserver/templates/myapp/home.png)
 
 ## Result:
 The program for implementing server side processing is completed successfully.

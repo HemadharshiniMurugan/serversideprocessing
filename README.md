@@ -24,7 +24,7 @@ Create a HTML file of forms.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```
+```html
 math.html
 
 <html>
